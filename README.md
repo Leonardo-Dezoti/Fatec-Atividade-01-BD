@@ -1,6 +1,6 @@
 # Fatec-Atividade-01-BD
 
-#Repositório para Anexo referente a Banco de Dados não relacional Comando: show dbs
+#Repositório para Anexo referente a Banco de Dados não relacional Comando: show dbs				
 
 #Função: Mostra todos os BD's criados no MongoDB Comando: use aula
 #Função: fixa o banco selecionado para uso de criação/pesquisa Comando: show collection
